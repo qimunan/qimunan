@@ -8,23 +8,19 @@ Hi everyone! I'm qimunan, a junior front-end engineer who is passionate about we
 
 About Me:
 
-我对前端开发充满热情，擅长使用 HTML、CSS 和 JavaScript。目前在不断学习中，希望能够在前端领域取得更进一步的发展。
+我是一个初入职场的前端小白，目前还在学习之中，我可能比较慢，但是我会继续努力，毕竟学习是终身的事。
 
-I'm passionate about front-end development and skilled in HTML, CSS, and JavaScript. I'm currently in the process of continuous learning, aiming to further develop my skills in the front-end field.
+I am a new career in the front end of the white, is still learning, I may be relatively slow, but I will continue to work hard, after all, learning is a lifelong thing.
 
 ## 技能
 
 Skills:
 
 - **HTML/CSS/JavaScript**: 熟悉基本的网页开发技术，能够构建简单的网页并添加基本的交互效果。
+- **vue**：尚在学习之中。
 - **学习能力**: 对前端技术保持好奇心，乐于学习新知识，不断提升自己的技能水平。
 - **团队合作**: 愿意与团队成员合作，共同解决问题，努力达成团队的目标。
 
-## 教育背景
-
-Education:
-
-- **自学前端开发**: 在线学习网站学习前端开发知识，自主完成了多个项目练习。
 
 ## 结语
 
